@@ -1,5 +1,5 @@
 # my-projects
 
-##hellow 
+## hellow 
 
-###this repository is for code for websites (html, css, javascript)
+### this repository is for front end websites code (html, css, javascript)
