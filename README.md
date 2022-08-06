@@ -6,3 +6,7 @@
 
 this is created for a coursera course
 [live page](https://andy-anshtine.github.io/my-projects/)
+
+## Contents
+[mod2-solution](/mod2-solution)
+[sites](/sites)
